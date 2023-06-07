@@ -5,7 +5,7 @@ void main() {
     debugShowCheckedModeBanner: false,
     home:Scaffold(
       appBar: AppBar(
-        title: Text("I am Pro"),
+        title: Text("I am Poor"),
         backgroundColor: Colors.blueGrey,
       ), 
       body:Center(
