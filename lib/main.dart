@@ -5,9 +5,9 @@ void main() {
     debugShowCheckedModeBanner: false,
     home:Scaffold(
       appBar: AppBar(
-        title: Text("I am Poor "),
+        title: Text("I am Pro"),
         backgroundColor: Colors.blueGrey,
-      ),
+      ), 
       body:Center(
         child: Image(
           image: AssetImage("images/poor.png"),
